@@ -1,0 +1,7 @@
+[tool.pyright]
+venvPath = "/Users/diego/.local/miniconda3/envs/"
+venv= "/Users/diego/.local/miniconda3/envs/zkdl"
+
+[tool.ruff]
+line-length = 200
+indent-width = 4
